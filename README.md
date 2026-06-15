@@ -92,5 +92,17 @@ HireHub is a web-based recruitment platform developed using Java, JSP, Servlets,
 - AI-Based Candidate Matching
 ## Screenshots
 
-### Home Page - Landing View
-![Home Page 1](home-page1.png)
+### Home Page
+![Home Page](home-page1.png)
+
+### Register Page
+![Register Page](register page.png)
+
+### Login Page
+![Login Page](loginpage.png)
+
+### User Dashboard
+![User Dashboard](user-dashboard.png)
+
+### Recruiter Dashboard
+![Recruiter Dashboard](recruiter-dashboard.png)
